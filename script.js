@@ -12,6 +12,8 @@ if(started==false){
     started=true;
     levelUp();
     }
+
+    
 });
 function gameFlash(btn){
     btn.classList.add("flash");
